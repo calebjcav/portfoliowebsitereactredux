@@ -1,0 +1,7 @@
+.namecard{
+    filter: blur(10px);
+    opacity: 0%;
+    animation: 1s ease-out 0s 1 slideInLeft;
+    background: #666;
+    padding: 40px;
+}

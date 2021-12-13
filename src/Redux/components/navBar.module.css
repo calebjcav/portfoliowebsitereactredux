@@ -1,0 +1,32 @@
+.sitenavigationwrap{
+    font-family: Lato;
+
+}
+.navigationmainnavigationclr{
+    display: inline-block;
+    position: relative;
+    size: relative;
+}
+.menulink{
+    padding: 0 15px;
+    text-decoration: none;
+    opacity: 40%;
+}
+.menulink:visited{
+    text-decoration: none;
+}
+
+.menulink:hover{
+    opacity: 100%;
+    transition: all 0.3s ease;
+}
+.socialmenuclrsimplesocial{
+    display:inline-block;
+    position:relative;
+    
+   
+}
+.socialmenuinner{
+    align-items: center;
+    display: inline-block;
+}
